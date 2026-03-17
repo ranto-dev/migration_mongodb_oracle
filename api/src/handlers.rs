@@ -15,7 +15,10 @@ fn establish_connection() -> Connection {
 pub async fn get_clients() -> impl Responder {
     let conn = establish_connection();
     let rows = conn
-        .query("SELECT id, name, email, phone FROM CLIENTS", &[])
+        .query(
+            "SELECT id, name, email, phone FROM CLIENTS ORDER BY id",
+            &[],
+        )
         .unwrap();
     let data: Vec<Client> = rows
         .filter_map(|r| r.ok())

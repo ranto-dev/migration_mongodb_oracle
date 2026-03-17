@@ -8,7 +8,7 @@ use handlers::*;
 #[actix_web::main]
 async fn main() -> std::io::Result<()> {
     dotenv().ok();
-    println!("🚀 API REST démarrée sur http://localhost:8080/api/");
+    println!("API démarrée sur http://localhost:8080/api/");
 
     HttpServer::new(|| {
         App::new().service(

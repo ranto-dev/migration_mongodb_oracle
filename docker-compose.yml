@@ -12,19 +12,14 @@ services:
     volumes:
       - mongo-data:/data/db
       - ./data:/data/import
-
   oracle:
     image: gvenzl/oracle-xe:21
-    
     container_name: oracle-xe
-    restart: always
     ports:
       - "1521:1521"
+      - "5500:5500"
     environment:
       ORACLE_PASSWORD: oraclepass
-    volumes:
-      - oracle-data:/opt/oracle/oradata
 
 volumes:
   mongo-data:
-  oracle-data:
