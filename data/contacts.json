@@ -1,0 +1,20 @@
+[
+  { "name": "John Doe", "email": "john.doe@acme.com", "client_id": 1 },
+  { "name": "Jane Smith", "email": "jane.smith@globex.com", "client_id": 2 },
+  {
+    "name": "Peter Parker",
+    "email": "peter.parker@initech.com",
+    "client_id": 3
+  },
+  { "name": "Bruce Wayne", "email": "bruce.wayne@wayne.com", "client_id": 8 },
+  { "name": "Tony Stark", "email": "tony.stark@stark.com", "client_id": 7 },
+  { "name": "Alice Wonka", "email": "alice.wonka@wonka.com", "client_id": 6 },
+  { "name": "Eve Tyrell", "email": "eve.tyrell@tyrell.com", "client_id": 9 },
+  { "name": "Bob Smith", "email": "bob.smith@soylent.com", "client_id": 5 },
+  {
+    "name": "Carol Danvers",
+    "email": "carol.danvers@umbrella.com",
+    "client_id": 4
+  },
+  { "name": "Mallory Hooli", "email": "mallory@hooli.com", "client_id": 10 }
+]

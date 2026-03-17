@@ -1,0 +1,12 @@
+[
+  { "username": "alice", "email": "alice@example.com", "role": "sales" },
+  { "username": "bob", "email": "bob@example.com", "role": "sales" },
+  { "username": "carol", "email": "carol@example.com", "role": "manager" },
+  { "username": "dave", "email": "dave@example.com", "role": "sales" },
+  { "username": "eve", "email": "eve@example.com", "role": "sales" },
+  { "username": "frank", "email": "frank@example.com", "role": "sales" },
+  { "username": "grace", "email": "grace@example.com", "role": "sales" },
+  { "username": "heidi", "email": "heidi@example.com", "role": "manager" },
+  { "username": "ivan", "email": "ivan@example.com", "role": "sales" },
+  { "username": "judy", "email": "judy@example.com", "role": "sales" }
+]

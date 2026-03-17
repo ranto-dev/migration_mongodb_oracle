@@ -1,0 +1,62 @@
+[
+  {
+    "_id": 1,
+    "name": "Acme Corp",
+    "email": "contact@acme.com",
+    "phone": "033000001"
+  },
+  {
+    "_id": 2,
+    "name": "Globex",
+    "email": "contact@globex.com",
+    "phone": "033000002"
+  },
+  {
+    "_id": 3,
+    "name": "Initech",
+    "email": "contact@initech.com",
+    "phone": "033000003"
+  },
+  {
+    "_id": 4,
+    "name": "Umbrella Corp",
+    "email": "contact@umbrella.com",
+    "phone": "033000004"
+  },
+  {
+    "_id": 5,
+    "name": "Soylent",
+    "email": "contact@soylent.com",
+    "phone": "033000005"
+  },
+  {
+    "_id": 6,
+    "name": "Wonka Inc",
+    "email": "contact@wonka.com",
+    "phone": "033000006"
+  },
+  {
+    "_id": 7,
+    "name": "Stark Industries",
+    "email": "contact@stark.com",
+    "phone": "033000007"
+  },
+  {
+    "_id": 8,
+    "name": "Wayne Enterprises",
+    "email": "contact@wayne.com",
+    "phone": "033000008"
+  },
+  {
+    "_id": 9,
+    "name": "Tyrell Corp",
+    "email": "contact@tyrell.com",
+    "phone": "033000009"
+  },
+  {
+    "_id": 10,
+    "name": "Hooli",
+    "email": "contact@hooli.com",
+    "phone": "033000010"
+  }
+]

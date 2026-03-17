@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Call client",
+    "description": "Follow up call",
+    "deal_title": "Deal A",
+    "due_date": "2026-03-20T10:00:00Z"
+  },
+  {
+    "title": "Send proposal",
+    "description": "Email proposal",
+    "deal_title": "Deal B",
+    "due_date": "2026-03-21T10:00:00Z"
+  },
+  {
+    "title": "Meeting",
+    "description": "Project meeting",
+    "deal_title": "Deal C",
+    "due_date": "2026-03-22T10:00:00Z"
+  },
+  {
+    "title": "Sign contract",
+    "description": "Contract signing",
+    "deal_title": "Deal D",
+    "due_date": "2026-03-23T10:00:00Z"
+  },
+  {
+    "title": "Follow up",
+    "description": "Follow up call",
+    "deal_title": "Deal E",
+    "due_date": "2026-03-24T10:00:00Z"
+  },
+  {
+    "title": "Demo product",
+    "description": "Product demo",
+    "deal_title": "Deal F",
+    "due_date": "2026-03-25T10:00:00Z"
+  },
+  {
+    "title": "Send invoice",
+    "description": "Invoice sending",
+    "deal_title": "Deal G",
+    "due_date": "2026-03-26T10:00:00Z"
+  },
+  {
+    "title": "Negotiate",
+    "description": "Negotiate deal",
+    "deal_title": "Deal H",
+    "due_date": "2026-03-27T10:00:00Z"
+  },
+  {
+    "title": "Review contract",
+    "description": "Check terms",
+    "deal_title": "Deal I",
+    "due_date": "2026-03-28T10:00:00Z"
+  },
+  {
+    "title": "Close deal",
+    "description": "Finalize deal",
+    "deal_title": "Deal J",
+    "due_date": "2026-03-29T10:00:00Z"
+  }
+]

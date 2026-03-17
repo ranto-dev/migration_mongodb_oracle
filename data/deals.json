@@ -1,0 +1,12 @@
+[
+  { "title": "Deal A", "amount": 5000, "client_id": 1, "status": "pending" },
+  { "title": "Deal B", "amount": 12000, "client_id": 2, "status": "won" },
+  { "title": "Deal C", "amount": 3000, "client_id": 3, "status": "lost" },
+  { "title": "Deal D", "amount": 8000, "client_id": 4, "status": "pending" },
+  { "title": "Deal E", "amount": 15000, "client_id": 5, "status": "won" },
+  { "title": "Deal F", "amount": 7000, "client_id": 6, "status": "pending" },
+  { "title": "Deal G", "amount": 9000, "client_id": 7, "status": "lost" },
+  { "title": "Deal H", "amount": 6000, "client_id": 8, "status": "pending" },
+  { "title": "Deal I", "amount": 11000, "client_id": 9, "status": "won" },
+  { "title": "Deal J", "amount": 4000, "client_id": 10, "status": "pending" }
+]
