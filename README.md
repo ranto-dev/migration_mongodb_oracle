@@ -47,7 +47,7 @@ sudo chmod +x mongosh.sh
 
 # Lancer le script
 ./mongosh.sh
-```
+````
 
 ## Setup Oracle
 
